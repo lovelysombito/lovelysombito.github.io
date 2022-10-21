@@ -2410,6 +2410,9 @@ input, select, textarea {
 					#nav a:hover {
 						background-color: transparent;
 					}
+				#nav .container {
+					font-size: 13px
+				}
 
 		/* Articles */
 
