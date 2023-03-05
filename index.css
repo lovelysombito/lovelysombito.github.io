@@ -1,0 +1,26 @@
+.text-aln-right {
+    text-align: left;
+}
+
+.text-italized {
+    font-style: italic;
+}
+
+.experience-details {
+    margin-left: 40px;
+}
+
+.exp-date {
+    margin-top : 5px;
+    margin-bottom: 50px;
+}
+
+.experience-details {
+    margin-bottom: 50px;
+}
+
+.experience-details p {
+    margin-top : 20px;
+    padding : 0;
+    line-height : 0px;
+}
